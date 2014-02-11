@@ -1004,3 +1004,13 @@ coincafe:
       <p>Buy Bitcoins with cash, wire transfer, check, or debit card.</p>
       <p>Find us on Twitter here: <a href="https://twitter.com/getcoincafe">@GetCoinCafe</></p>
   coins: [BTC]
+  
+    
+ECoins:
+  label: ecoins.com.br
+  url: http://www.ecoins.com.br
+  location: [br]
+  countries: [br]
+    content:|
+      <p>Buy and sell bitcoins and litecoin in Brazil.</p>
+  coins: [btc, ltc]
